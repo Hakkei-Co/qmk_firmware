@@ -1,0 +1,50 @@
+{
+    "keyboard_name": "ryval_left",
+    "url": "",
+    "maintainer": "qmk",
+    "width": 8,
+    "height": 5,
+    "layouts": {
+        "LAYOUT": {
+            "key_count": 35,
+            "layout": [
+                {"label":"K00 (B5,C6)", "x":0, "y":0},
+                {"label":"K01 (B5,D4)", "x":1, "y":0},
+                {"label":"K02 (B5,D0)", "x":2, "y":0},
+                {"label":"K03 (B5,C0)", "x":3, "y":0},
+                {"label":"K04 (B5,C1)", "x":4, "y":0},
+                {"label":"K05 (B5,C2)", "x":5, "y":0},
+                {"label":"K06 (B5,C3)", "x":6, "y":0},
+                {"label":"K07 (B5,C4)", "x":7, "y":0},
+                {"label":"K10 (B4,C6)", "x":0, "y":1},
+                {"label":"K11 (B4,D4)", "x":1, "y":1},
+                {"label":"K12 (B4,D0)", "x":2, "y":1},
+                {"label":"K13 (B4,C0)", "x":3, "y":1},
+                {"label":"K14 (B4,C1)", "x":4, "y":1},
+                {"label":"K15 (B4,C2)", "x":5, "y":1},
+                {"label":"K16 (B4,C3)", "x":6, "y":1},
+                {"label":"K17 (B4,C4)", "x":7, "y":1},
+                {"label":"K20 (E6,C6)", "x":0, "y":2},
+                {"label":"K21 (E6,D4)", "x":1, "y":2},
+                {"label":"K22 (E6,D0)", "x":2, "y":2},
+                {"label":"K23 (E6,C0)", "x":3, "y":2},
+                {"label":"K24 (E6,C1)", "x":4, "y":2},
+                {"label":"K25 (E6,C2)", "x":5, "y":2},
+                {"label":"K26 (E6,C3)", "x":6, "y":2},
+                {"label":"K30 (D7,C6)", "x":0, "y":3},
+                {"label":"K31 (D7,D4)", "x":1, "y":3},
+                {"label":"K33 (D7,C0)", "x":3, "y":3},
+                {"label":"K34 (D7,C1)", "x":4, "y":3},
+                {"label":"K35 (D7,C2)", "x":5, "y":3},
+                {"label":"K36 (D7,C3)", "x":6, "y":3},
+                {"label":"K37 (D7,C4)", "x":7, "y":3},
+                {"label":"K40 (B0,C6)", "x":0, "y":4},
+                {"label":"K41 (B0,D4)", "x":1, "y":4},
+                {"label":"K43 (B0,C0)", "x":3, "y":4},
+                {"label":"K44 (B0,C1)", "x":4, "y":4},
+                {"label":"K45 (B0,C2)", "x":5, "y":4}
+            ]
+        }
+    }
+    ,"meta": "https://noroadsleft.github.io/kbf_qmk_converter/"
+}
