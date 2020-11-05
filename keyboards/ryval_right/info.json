@@ -1,0 +1,52 @@
+{
+    "keyboard_name": "ryval_right",
+    "url": "",
+    "maintainer": "qmk",
+    "width": 9,
+    "height": 5,
+    "layouts": {
+        "LAYOUT": {
+            "key_count": 37,
+            "layout": [
+                {"label":"K00 (D7,B4)", "x":0, "y":0},
+                {"label":"K01 (D7,D5)", "x":1, "y":0},
+                {"label":"K02 (D7,B0)", "x":2, "y":0},
+                {"label":"K03 (D7,F0)", "x":3, "y":0},
+                {"label":"K04 (D7,F1)", "x":4, "y":0},
+                {"label":"K05 (D7,E6)", "x":5, "y":0},
+                {"label":"K06 (D7,B6)", "x":6, "y":0},
+                {"label":"K07 (D7,B5)", "x":8, "y":0},
+                {"label":"K10 (C7,B4)", "x":1, "y":1},
+                {"label":"K11 (C7,D5)", "x":2, "y":1},
+                {"label":"K12 (C7,B0)", "x":3, "y":1},
+                {"label":"K13 (C7,F0)", "x":4, "y":1},
+                {"label":"K14 (C7,F1)", "x":5, "y":1},
+                {"label":"K15 (C7,E6)", "x":6, "y":1},
+                {"label":"K16 (C7,B6)", "x":7, "y":1},
+                {"label":"K17 (C7,B5)", "x":8, "y":1},
+                {"label":"K20 (E2,B4)", "x":0, "y":2},
+                {"label":"K21 (E2,D5)", "x":1, "y":2},
+                {"label":"K22 (E2,B0)", "x":2, "y":2},
+                {"label":"K23 (E2,F0)", "x":3, "y":2},
+                {"label":"K24 (E2,F1)", "x":4, "y":2},
+                {"label":"K25 (E2,E6)", "x":5, "y":2},
+                {"label":"K26 (E2,B6)", "x":6, "y":2},
+                {"label":"K27 (E2,B5)", "x":8, "y":2},
+                {"label":"K30 (F7,B4)", "x":1, "y":3},
+                {"label":"K31 (F7,D5)", "x":2, "y":3},
+                {"label":"K32 (F7,B0)", "x":3, "y":3},
+                {"label":"K33 (F7,F0)", "x":4, "y":3},
+                {"label":"K34 (F7,F1)", "x":5, "y":3},
+                {"label":"K35 (F7,E6)", "x":6, "y":3},
+                {"label":"K36 (F7,B6)", "x":7, "y":3},
+                {"label":"K40 (D4,B4)", "x":0, "y":4},
+                {"label":"K41 (D4,D5)", "x":1, "y":4},
+                {"label":"K42 (D4,B0)", "x":2, "y":4},
+                {"label":"K43 (D4,F0)", "x":6, "y":4},
+                {"label":"K44 (D4,F1)", "x":7, "y":4},
+                {"label":"K45 (D4,E6)", "x":8, "y":4}
+            ]
+        }
+    }
+    ,"meta": "https://noroadsleft.github.io/kbf_qmk_converter/"
+}
